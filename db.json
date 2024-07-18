@@ -1,0 +1,16 @@
+{
+  "testimonial": [
+    {
+      "name": "John Doe",
+      "message": "I'm so happy with the service I received from this company. The staff was friendly and knowledgeable, and they went above and beyond to help me with my issue."
+    },
+    {
+      "name": "Jane Smith",
+      "message": "I was impressed with the professionalism and expertise of the team. They really took the time to understand my needs and provided a solution that worked for me."
+    },
+    {
+      "name": "Bob Johnson",
+      "message": "I was blown away by the level of service I received. The team was responsive, courteous, and knowledgeable, and they went above and beyond to help me with my issue."
+    }
+  ]
+}
